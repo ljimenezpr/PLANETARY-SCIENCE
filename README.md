@@ -1,6 +1,6 @@
 # PLANETARY-SCIENCE
 
-Cada taller está diseñado para llevar a cabo en Google Colab. 
+Cada taller está diseñado para llevarse a cabo en Google Colab. 
 Copie y pegue en Google Colab el código si es necesario.
 
 Los archivos necesarios están dentro del repositorio.
