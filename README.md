@@ -13,7 +13,7 @@ El objetivo es facilitar el aprendizaje y la exploración de datos geoespaciales
 2. Copie y pegue el código, o cargue directamente el archivo `.ipynb` en Colab.  
 3. Ejecute las celdas siguiendo las instrucciones para reproducir los análisis y visualizaciones.
 
-## Archivos grandes
+## Archivos adicionales
 Algunos datasets necesarios superan el límite de tamaño permitido en GitHub.  
 Estos archivos (mayores a 100 MB) se encuentran disponibles en la siguiente **carpeta pública de Google Drive**:
 https://drive.google.com/drive/folders/18vqbwMCW84RCtZSe-we7AzVRabNQGx1Z?usp=sharing
